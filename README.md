@@ -45,7 +45,7 @@ Gadzey is a complete web-based inventory and booking system designed to manage g
 |-----------|---------------|
 | ![User Home](screenshots/user_home.png) | ![Booking](screenshots/user_booking.png) |
 
-> _Note: Screenshots should be placed in a `/screenshots` folder in your repo._
+
 
 ---
 
